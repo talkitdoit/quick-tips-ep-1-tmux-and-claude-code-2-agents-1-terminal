@@ -1,0 +1,1 @@
+Create a production-ready Dockerfile for a Node.js Express app. Include multi-stage build, non-root user, health check, and a .dockerignore file. Add inline comments explaining each decision.

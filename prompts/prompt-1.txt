@@ -1,0 +1,1 @@
+Check if tmux is installed on this machine. If it isn't, install it using the appropriate package manager for this OS (brew for macOS, apt for Ubuntu/Debian). After installing, confirm the version and verify the tmux binary is available on the PATH.

@@ -1,0 +1,1 @@
+Create a shell script called start-claude-sessions.sh that does the following: starts a new tmux session named 'claude-work', splits the window into two vertical panes side by side, and sets the working directory in each pane to the current directory. Name the two panes 'agent-1' and 'agent-2'. Make the script executable and show me how to run it.

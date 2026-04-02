@@ -1,0 +1,1 @@
+Write a detailed CONTRIBUTING.md for an open source TypeScript project. Include sections for setup, coding standards, commit message format, PR process, and a code of conduct summary.
